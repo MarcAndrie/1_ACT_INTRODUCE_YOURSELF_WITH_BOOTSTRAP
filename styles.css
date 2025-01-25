@@ -1,0 +1,15 @@
+body{
+    font-family: "Arial";
+}
+
+.aboutMe {
+    background-color: snow;
+    padding: 30px;
+    margin-top: 20px;
+    border: 1px solid black;
+}
+.welcomeGreeting {
+    background-color: ghostwhite;
+    padding: 25px;
+    border: 1px solid black;
+}
